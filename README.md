@@ -33,8 +33,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Nurislam's GitHub stats](https://github-readme-stats.vercel.app/api?nur1slam20=nur1slam20&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?nur1slam20=nur1slam20&layout=compact&theme=radical)  
+![Nurislam's GitHub stats](https://github-readme-stats.vercel.app/api?username=nur1slam20&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nur1slam20&layout=compact&theme=radical)
 
 ---
 
