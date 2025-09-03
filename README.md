@@ -56,10 +56,11 @@
 
 ---
 
-## 🌍 Social
-- Instagram: [@j.nur1slam](https://instagram.com/j.nur1slam)  
-- 💬 Telegram: [@LenS017](https://t.me/LenS017)  
-- 📧 Email: **nurislam.zhetpisbay@jihc.edu.kz**  
+## 🌍 Social  
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/j.nur1slam)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LenS017)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurislam.zhetpisbay@jihc.edu.kz)  
 
 ---
 
