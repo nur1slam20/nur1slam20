@@ -16,7 +16,7 @@
 
 📫 Get in Touch:  
 - Telegram: [@LenS017](https://t.me/LenS017)  
-- Email: lenswilson00@gmail.com  
+- Email: nurislam.zhetpisbay@jihc.edu.kz  
 
 ---
 ⭐️ I’m learning and building projects to become a professional Web Developer.
