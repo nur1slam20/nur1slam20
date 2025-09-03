@@ -41,7 +41,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 ---
-## 📂 Featured Projects  
+## 📂 My Projects  
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge)](https://nur1slam20.github.io/Portfolio/)  
 [![Cafe Website](https://img.shields.io/badge/☕%20Cafe%20Website-6A5ACD?style=for-the-badge)](https://nur1slam20.github.io/Money_project/)  
