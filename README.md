@@ -73,22 +73,3 @@
 
 
 
-
-
-<section class="featured-project">
-  <div class="featured-content">
-    <div class="featured-image">
-      <img src="project-image.jpg" alt="Featured Project Preview">
-    </div>
-    <div class="featured-text">
-      <h2>Featured Project</h2>
-      <h3>ByteForge Website Redesign</h3>
-      <p>
-        A modern and fully responsive website built with HTML, CSS, and JavaScript. 
-        The project focuses on clean design, accessibility, and smooth user experience.
-      </p>
-      <a href="https://github.com/yourusername/project" class="btn">View Project</a>
-    </div>
-  </div>
-</section>
-ы
