@@ -41,11 +41,12 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 ---
-## 📂 Featured Projects
-- 🌐 [Personal Portfolio Website](https://nur1slam20.github.io/Portfolio/)  
-- 📰 [Cafe Website]( https://nur1slam20.github.io/Money_project/)  
-- 🛒 [Mini E-Commerce Store](https://nur1slam20.github.io/shop/)  
-- 🎮 [JavaScript Mini Game]( https://nur1slam20.github.io/JSMiniGame/)  
+## 📂 Featured Projects  
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge)](https://nur1slam20.github.io/Portfolio/)  
+[![Cafe Website](https://img.shields.io/badge/☕%20Cafe%20Website-6A5ACD?style=for-the-badge)](https://nur1slam20.github.io/Money_project/)  
+[![E-Commerce](https://img.shields.io/badge/🛒%20Mini%20Store-FF4500?style=for-the-badge)](https://nur1slam20.github.io/shop/)  
+[![Game](https://img.shields.io/badge/🎮%20JS%20Mini%20Game-2E8B57?style=for-the-badge)](https://nur1slam20.github.io/JSMiniGame/)  
 
 ---
 
