@@ -12,19 +12,6 @@
 - ⚡ Fun fact: I enjoy creating clones of popular apps to sharpen my skills  
 
 ---
-## 📂 Featured Projects  
-
-### 🌐 [Portfolio Website](https://nur1slam20.github.io/Portfolio/)  
-Современный сайт-портфолио с адаптивным дизайном и анимацией.  
-
-### ☕ [Cafe Website](https://nur1slam20.github.io/Money_project/)  
-Учебный проект кафе с меню и красивым UI.  
-
-### 🛒 [Mini E-Commerce Store](https://nur1slam20.github.io/shop/)  
-Мини-магазин с каталогом и корзиной (HTML, CSS, JS).  
-
-### 🎮 [JavaScript Mini Game](https://nur1slam20.github.io/JSMiniGame/)  
-Весёлая игра “Catch the Box” для тренировки реакции.  
 
 
 ## 🛠 Tech Stack  
@@ -58,12 +45,12 @@
 ## 📂 My Projects  
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge)](https://nur1slam20.github.io/Portfolio/) 
-Modern portfolio website with responsive design and animation.
+
 [![Cafe Website](https://img.shields.io/badge/☕%20Cafe%20Website-6A5ACD?style=for-the-badge)](https://nur1slam20.github.io/Money_project/) 
-A training project of a cafe with a menu and a beautiful UI.
+
 [![E-Commerce](https://img.shields.io/badge/🛒%20Mini%20Store-FF4500?style=for-the-badge)](https://nur1slam20.github.io/shop/)  
 [![Game](https://img.shields.io/badge/🎮%20JS%20Mini%20Game-2E8B57?style=for-the-badge)](https://nur1slam20.github.io/JSMiniGame/)  
-Fun game “Catch the Box” to train your reaction.
+
 
 ---
 
@@ -83,3 +70,25 @@ Fun game “Catch the Box” to train your reaction.
 ---
 
 ⭐️ *Learning step by step to become a professional Web Developer.*
+
+
+
+
+
+<section class="featured-project">
+  <div class="featured-content">
+    <div class="featured-image">
+      <img src="project-image.jpg" alt="Featured Project Preview">
+    </div>
+    <div class="featured-text">
+      <h2>Featured Project</h2>
+      <h3>ByteForge Website Redesign</h3>
+      <p>
+        A modern and fully responsive website built with HTML, CSS, and JavaScript. 
+        The project focuses on clean design, accessibility, and smooth user experience.
+      </p>
+      <a href="https://github.com/yourusername/project" class="btn">View Project</a>
+    </div>
+  </div>
+</section>
+ы
