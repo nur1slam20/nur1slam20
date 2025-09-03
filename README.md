@@ -12,6 +12,20 @@
 - ⚡ Fun fact: I enjoy creating clones of popular apps to sharpen my skills  
 
 ---
+## 📂 Featured Projects  
+
+### 🌐 [Portfolio Website](https://nur1slam20.github.io/Portfolio/)  
+Современный сайт-портфолио с адаптивным дизайном и анимацией.  
+
+### ☕ [Cafe Website](https://nur1slam20.github.io/Money_project/)  
+Учебный проект кафе с меню и красивым UI.  
+
+### 🛒 [Mini E-Commerce Store](https://nur1slam20.github.io/shop/)  
+Мини-магазин с каталогом и корзиной (HTML, CSS, JS).  
+
+### 🎮 [JavaScript Mini Game](https://nur1slam20.github.io/JSMiniGame/)  
+Весёлая игра “Catch the Box” для тренировки реакции.  
+
 
 ## 🛠 Tech Stack  
 
