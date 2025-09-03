@@ -12,11 +12,6 @@
 - ⚡ Fun fact: I enjoy creating clones of popular apps to sharpen my skills  
 
 ---
-## 📂 Featured Projects  
-
-| 🌐 Portfolio | ☕ Cafe Website | 🛒 Mini Store | 🎮 JS Mini Game |
-|--------------|---------------|---------------|----------------|
-| [🔗 Live Demo](https://nur1slam20.github.io/Portfolio/) | [🔗 Live Demo](https://nur1slam20.github.io/Money_project/) | [🔗 Live Demo](https://nur1slam20.github.io/shop/) | [🔗 Live Demo](https://nur1slam20.github.io/JSMiniGame/) |
 
 ## 🛠 Tech Stack  
 
