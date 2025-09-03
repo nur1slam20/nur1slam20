@@ -45,10 +45,7 @@
 ## 📂 My Projects  
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge)](https://nur1slam20.github.io/Portfolio/) 
-
 [![Cafe Website](https://img.shields.io/badge/☕%20Cafe%20Website-6A5ACD?style=for-the-badge)](https://nur1slam20.github.io/Money_project/) 
-
-[![E-Commerce](https://img.shields.io/badge/🛒%20Mini%20Store-FF4500?style=for-the-badge)](https://nur1slam20.github.io/shop/)  
 [![Game](https://img.shields.io/badge/🎮%20JS%20Mini%20Game-2E8B57?style=for-the-badge)](https://nur1slam20.github.io/JSMiniGame/)  
 
 
