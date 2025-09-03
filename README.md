@@ -26,7 +26,6 @@
 
 ## 📂 Featured Projects
 - 🌐 [Personal Portfolio Website](https://username.github.io/portfolio/)  
-- 📸 [Instagram Clone (UI)](https://username.github.io/instagram-clone/)  
 - 📰 [News Blog Website](https://username.github.io/news-site/)  
 - 🛒 [Mini E-Commerce Store](https://username.github.io/shop/)  
 - 🎮 [JavaScript Mini Game](https://username.github.io/game/)  
@@ -40,6 +39,7 @@
 ---
 
 ## 🤝 Connect with Me
+- Instagram: j.nur1slam
 - 💬 Telegram: [@LenS017](https://t.me/LenS017)  
 - 📧 Email: **nurislam.zhetpisbay@jihc.edu.kz**  
 
