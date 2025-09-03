@@ -1,16 +1,23 @@
-## Hi there 👋
+ Hi there 👋, I'm Nurislam  
 
-<!--
-**nur1slam20/nur1slam20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 3rd year student at JIHC | Aspiring **Web Developer**  
 
-Here are some ideas to get you started:
+💻 Tech Stack:  
+- Frontend: HTML5, CSS3 (Flexbox, Grid), JavaScript (basics)  
+- Tools: Git, GitHub, VS Code  
+- UI/UX: Responsive design, CSS animations, hover effects, figma  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Featured Projects:  
+- [ Personal Portfolio Website](https://username.github.io/portfolio/)  
+- [ Instagram Clone (UI)](https://username.github.io/instagram-clone/)  
+- [ News Blog Website](https://username.github.io/news-site/)  
+- [ Mini E-Commerce Store](https://username.github.io/shop/)  
+- [ JavaScript Mini Game](https://username.github.io/game/)  
+
+📫 Get in Touch:  
+- Telegram: [@LenS017](https://t.me/LenS017)  
+- Email: lenswilson00@gmail.com  
+
+---
+⭐️ I’m learning and building projects to become a professional Web Developer.
+
