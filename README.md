@@ -56,8 +56,8 @@
 
 ---
 
-## 🤝 Connect with Me
-- Instagram: j.nur1slam
+## 🌍 Social
+- Instagram: [@j.nur1slam](https://instagram.com/j.nur1slam)  
 - 💬 Telegram: [@LenS017](https://t.me/LenS017)  
 - 📧 Email: **nurislam.zhetpisbay@jihc.edu.kz**  
 
