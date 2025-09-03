@@ -25,8 +25,8 @@
 ---
 
 ## 📂 Featured Projects
-- 🌐 [Personal Portfolio Website](https://nur1slam.github.io/portfolio/)  
-- 📰 [News Blog Website]( https://nur1slam20.github.io/Money_project/)  
+- 🌐 [Personal Portfolio Website](https://nur1slam20.github.io/Portfolio/)  
+- 📰 [Cafe Website]( https://nur1slam20.github.io/Money_project/)  
 - 🛒 [Mini E-Commerce Store](https://nur1slam20.github.io/shop/)  
 - 🎮 [JavaScript Mini Game](https://nur1slam20.github.io/game/)  
 
