@@ -25,10 +25,10 @@
 ---
 
 ## 📂 Featured Projects
-- 🌐 [Personal Portfolio Website](https://username.github.io/portfolio/)  
-- 📰 [News Blog Website](https://username.github.io/news-site/)  
-- 🛒 [Mini E-Commerce Store](https://username.github.io/shop/)  
-- 🎮 [JavaScript Mini Game](https://username.github.io/game/)  
+- 🌐 [Personal Portfolio Website](https://nur1slam.github.io/portfolio/)  
+- 📰 [News Blog Website]( https://nur1slam20.github.io/Money_project/)  
+- 🛒 [Mini E-Commerce Store](https://nur1slam20.github.io/shop/)  
+- 🎮 [JavaScript Mini Game](https://nur1slam20.github.io/game/)  
 
 ---
 
