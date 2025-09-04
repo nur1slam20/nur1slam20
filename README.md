@@ -1,4 +1,5 @@
-[Resume or CV.pdf](https://github.com/user-attachments/files/22133348/Resume.or.CV.pdf)# Hi there 👋, I'm Nurislam  
+[Resume or CV.pdf](https://github.com/user-attachments/files/22133348/Resume.or.CV.pdf)
+# Hi there 👋, I'm Nurislam  
 
 🎓 3rd year student at **JIHC College**  
 💻 Aspiring **Web Developer** | Passionate about building modern, responsive websites  
@@ -66,7 +67,7 @@
 
 ---
 
-[Resume or CV.pdf](https://github.com/user-attachments/files/22133351/Resume.or.CV.pdf)
+
 
 
 ⭐️ *Learning step by step to become a professional Web Developer.*
